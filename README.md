@@ -1,4 +1,4 @@
-# Patient Risk Scoring
+# Patient Heart Risk Scoring
 
 This project predicts the risk of a patient using Machine Learning
 
